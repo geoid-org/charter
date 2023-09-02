@@ -6,7 +6,7 @@
 
 # Node
 node_modules/
-
+tmp/*
 
 # C
 *.o
